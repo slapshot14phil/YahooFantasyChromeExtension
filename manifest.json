@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Page Redder",
+  "description": "Make the current page red",
+  "version": "2.0",
+  "author": "Phil Grant"
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "Make this page red"
+  }  
