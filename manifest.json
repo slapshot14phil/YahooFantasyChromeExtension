@@ -3,7 +3,7 @@
   "name": "Page Redder",
   "description": "Make the current page red",
   "version": "2.0",
-  "author": "Phil Grant"
+  "author": "Phil Grant",
   "permissions": [
     "activeTab"
   ],
